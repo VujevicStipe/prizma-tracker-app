@@ -2,7 +2,7 @@
 
 GPS tracking system for field worker management, consisting of a React Native Android app and a React/TypeScript admin portal.
 
-![Demo](./assets/showreel-grid-prizma-app_20260312133333.gif)
+![Demo](./assets/Showreel-Grid-Mobile-remix_20260312155943.gif)
 
 ---
 
